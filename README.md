@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **Nodejs**.
+- I'm aspiring 🔭️ Web Developer currently learning 🌱 **Nodejs**.
 - I always like working in **Visual Studio Code** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
