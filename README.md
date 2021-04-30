@@ -53,7 +53,7 @@
 
 ### Read More:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-shoharab-pk-97b1391b0/) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shoharabpk/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/web.shoharabpk/) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15183300/md-shoharab-pk)
 
@@ -69,7 +69,7 @@
   <a href="https://github.com/web-shoharab-pk">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=web-shoharab-pk&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
+  <a href="https://github.com/web-shoharab-pk/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=web-shoharab-pk&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
