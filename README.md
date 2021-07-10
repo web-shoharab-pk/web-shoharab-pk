@@ -53,13 +53,9 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shoharabpk/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/web.shoharabpk/) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15183300/md-shoharab-pk)
+ 
 
-<br />
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-shoharab-pk&theme=radical&hide_border=true"/>
-</p>
 
-</br>
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
   <summary>📊 Github Readme Stats</summary>
@@ -72,7 +68,9 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=web-shoharab-pk&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
-
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-shoharab-pk&theme=radical&hide_border=true"/>
+</p>
 
 <details>
  <summary>🏆 Github Profile Trophy</summary>
