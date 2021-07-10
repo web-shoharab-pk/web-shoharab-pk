@@ -17,14 +17,6 @@
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 </br>
-</br>
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faysal253&theme=radical&hide_border=true"/>
-</p>
-
-</br>
-
-
 
 ### Connect with me:
 
@@ -63,11 +55,15 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/web.shoharabpk/) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15183300/md-shoharab-pk)
 
+<br />
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-shoharab-pk&theme=radical&hide_border=true"/>
+</p>
+
 ### 📕 Latest Blog Posts
 -this will be comming soon
 </br>
-
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
   <summary>📊 Github Readme Stats</summary>
  </br>
@@ -98,5 +94,4 @@
 [twitter]: https://twitter.com/Md_Shoharab_Pk
 [facebook]: https://www.facebook.com/web.shoharabpk/
 [github]: https://github.com/web-shoharab-pk
-[linkedin]: https://www.linkedin.com/in/md-shoharab-pk-97b1391b0/
-[gmail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlHmbGChLMwphnxXtvWPzQZrcjjpdkHPldgcdQnmLnltLzCXNtVwDbqBWkmVfkNsGWjDZL
+[linkedin]: https://www.linkedin.com/in/md-shoharab-pk-97b1391b0/ 
