@@ -1,5 +1,5 @@
 
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://i.ibb.co/FJmkVY9/shoharab-pk.jpg">
 <h1 align="center">Hi This is Md Shoharab Pk</h1>
 <h3 align="center">A passionate MERN Stack developer from Rajshahi, Bangladesh!</h3>
 
