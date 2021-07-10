@@ -1,9 +1,15 @@
-### web-shoharab-pk
-#  Assalamualaikum, welcome i am Shoharab
 
-</br>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
+<h1 align="center">Hi This is Md Shoharab Pk</h1>
+<h3 align="center">A passionate MERN Stack developer from Rajshahi, Bangladesh!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=web-shoharab-pk&label=Profile%20views&color=0e75b6&style=flat" alt="ajauntor" /> </p>
+
+<p align="left"> <a href="https://twitter.com/Md_Shoharab_Pk" target="blank"><img src="https://img.shields.io/twitter/follow/Md_Shoharab_Pk?logo=twitter&style=for-the-badge" alt="Md_Shoharab_Pk" /></a> </p>
+
+- 💬 Ask me about **React, Node and JavaScript.**
+
+- 📫 How to reach me **developer.shoharabpk@gmail.com**
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - I'm aspiring 🔭️ Web Developer currently learning 🌱 **Nodejs**.
@@ -88,7 +94,7 @@
  
 
 
-[website]: https://web-shoharab-pk.github.io/web-portfolio/
+[website]: https://shoharabpk-portfolio.web.app/
 [twitter]: https://twitter.com/Md_Shoharab_Pk
 [facebook]: https://www.facebook.com/web.shoharabpk/
 [github]: https://github.com/web-shoharab-pk
