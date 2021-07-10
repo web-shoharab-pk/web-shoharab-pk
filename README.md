@@ -60,8 +60,6 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-shoharab-pk&theme=radical&hide_border=true"/>
 </p>
 
-### 📕 Latest Blog Posts
--this will be comming soon
 </br>
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
@@ -94,4 +92,4 @@
 [twitter]: https://twitter.com/Md_Shoharab_Pk
 [facebook]: https://www.facebook.com/web.shoharabpk/
 [github]: https://github.com/web-shoharab-pk
-[linkedin]: https://www.linkedin.com/in/md-shoharab-pk-97b1391b0/ 
+[linkedin]: https://www.linkedin.com/in/md-shoharab-pk-97b1391b0/
