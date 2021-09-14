@@ -3,10 +3,8 @@
 <h1 align="center">Hi This is Md Shoharab Pk</h1>
 <h3 align="center">A passionate MERN Stack developer from Rajshahi, Bangladesh!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=web-shoharab-pk&label=Profile%20views&color=0e75b6&style=flat" alt="ajauntor" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=web-shoharab-pk&label=Profile%20views&color=0e75b6&style=flat" alt="shoharab" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Md_Shoharab_Pk" target="blank">
- <img src="https://www.facebook.com/web.shoharabpk/followers" alt="Md_Shoharab_Pk" /></a> </p>
 
 - 💬 Ask me about **React, Node and JavaScript.**
 
