@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Node and JavaScript.**
 
-- 📫 How to reach me **developer.shoharabpk@gmail.com**
+- 📫 How to reach me **dev.shoharabpk@gmail.com**
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - I'm aspiring 🔭️ Web Developer currently learning 🌱 **Nodejs**.
