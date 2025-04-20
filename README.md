@@ -33,7 +33,9 @@ I'm a passionate **Senior Full Stack Developer** with over **3+ years of experie
 🌟 **My Mission:** To create innovative solutions that solve real-world problems while delivering seamless user experiences.
 
 📫 **Reach Out:** [dev.shoharabpk@gmail.com](mailto:dev.shoharabpk@gmail.com)  
-💬 **Ask Me About:** React, Node.js, MongoDB, TypeScript, API Design, or Cloud Deployment
+💬 **Ask Me About:** **React, Node.js, MongoDB, TypeScript, API Design, or Cloud Deployment**
+⛳ **Portfolio:** [shoharab.com](https://shoharab.com)
+⛳ **Resume:** [shoharab.com](https://shoharab.com/resume.pdf)
 
 ---
 
@@ -49,7 +51,7 @@ I'm a passionate **Senior Full Stack Developer** with over **3+ years of experie
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" title="SASS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />
+  <img src="https://avatars.githubusercontent.com/u/67109815?v=4" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40" title="Material UI" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap" />
 </p>
@@ -58,7 +60,7 @@ I'm a passionate **Senior Full Stack Developer** with over **3+ years of experie
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" title="Express.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" title="NestJS" />
+  <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="NestJS" width="40" height="40" title="NestJS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" title="Firebase" />
 </p>
@@ -69,7 +71,7 @@ I'm a passionate **Senior Full Stack Developer** with over **3+ years of experie
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" title="Figma" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" title="AWS" />
+  <img src="https://avatars.githubusercontent.com/u/2232217?s=280&v=4" alt="AWS" width="40" height="40" title="AWS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" title="GCP" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" title="Azure" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40" title="Heroku" />
@@ -80,7 +82,8 @@ I'm a passionate **Senior Full Stack Developer** with over **3+ years of experie
 ### Payment Gateways
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="40" height="40" title="Stripe" />
-  <img src="https://www.vectorlogo.zone/logos/sslcommerz/sslcommerz-icon.svg" alt="SSLCOMMERZ" width="40" height="40" title="SSLCOMMERZ" />
+  <img src="https://avatars.githubusercontent.com/u/7713209?s=280&v=4" alt="RazorPay" width="40" height="40" title="RazorPay" />
+    <img src="https://apps.odoo.com/web/image/loempia.module/220321/icon_image?unique=57194d4" alt="SSLCOMMERZ" width="40" height="40" title="SSLCOMMERZ" />
 </p>
 
 ---
@@ -121,7 +124,7 @@ I'm a passionate **Senior Full Stack Developer** with over **3+ years of experie
 
 ### **Royal Hair Wigs**  
 *E-Commerce Application*  
-🔗 [Preview](#) | 📧 [Request Code Access](mailto:dev.shoharabpk@gmail.com)  
+🔗 [Preview](https://royalhairwigs.com) | 📧 [Request Code Access](mailto:dev.shoharabpk@gmail.com)  
 *Note: GitHub repository is private. Contact me for code access.*
 
 **Features:**
@@ -139,7 +142,7 @@ I'm a passionate **Senior Full Stack Developer** with over **3+ years of experie
 
 ### **Sakani**  
 *Real Estate Application*  
-🔗 [Preview](#) | 📧 [Request Code Access](mailto:dev.shoharabpk@gmail.com)  
+🔗 [Preview](https://sakani.tn) | 📧 [Request Code Access](mailto:dev.shoharabpk@gmail.com)  
 *Note: GitHub repository is private. Contact me for code access.*
 
 **Features:**
