@@ -33,8 +33,11 @@ I'm a passionate **Senior Full Stack Developer** with over **3+ years of experie
 🌟 **My Mission:** To create innovative solutions that solve real-world problems while delivering seamless user experiences.
 
 📫 **Reach Out:** [dev.shoharabpk@gmail.com](mailto:dev.shoharabpk@gmail.com)  
+
 💬 **Ask Me About:** **React, Node.js, MongoDB, TypeScript, API Design, or Cloud Deployment**
+
 ⛳ **Portfolio:** [shoharab.com](https://shoharab.com)
+
 ⛳ **Resume:** [shoharab.com](https://shoharab.com/resume.pdf)
 
 ---
